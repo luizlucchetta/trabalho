@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(140, 230, 180);
+}
+
+.titulo{
+    height: 40px;
+    font-size: large;
+    background-color: rgb(104, 149, 199);
+    h1{
+        color: rgb(140, 230, 180);
+    }
+}
+
+.container img {
+    position: relative;
+    height: 400px;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+nav {
+    margin: 20px 0;
+    text-align: center;
+}
+nav * {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #35424a;
+}
+section {
+    padding: 20px;
+    background: #ffffff;
+    margin: 20px 10%;
+    border-radius: 8px;
+}
