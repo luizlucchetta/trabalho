@@ -13,3 +13,4 @@ if (isset($lingua)) {
 //Redireciona para a pagina index.php
 header('Location: index.php');
 
+?>

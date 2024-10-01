@@ -18,20 +18,21 @@
 
         </div>
 
-        <div>
+        <br>
+        <br>
+        
+        <nav>
        
         <a href="idioma.php?lingua=portugues">
-            <img src=imagens/brasil width=50px height=50px>
-        </a> &nbsp;&nbsp;
-
+            <img src=imagens/brasil width=30px height=30px>
+        </a>
         <a href="idioma.php?lingua=ingles">
-            <img src="imagens/reino-unido.jpeg" alt="" style="width:50px;height:50px;">
-        </a> &nbsp;&nbsp;
-
+            <img src="imagens/reino-unido.jpeg" alt="" style="width:30px;height:30px;">
+        </a> 
         <a href="idioma.php?lingua=espanhol">
-            <img src="imagens/espanha.jpeg" alt="" style="width:50px;height:50px;">
-        </a> &nbsp;&nbsp;
-</div>
+            <img src="imagens/espanha.jpeg" alt="" style="width:30px;height:30px;">
+        </a> 
+</nav>
 
 
 </body>
